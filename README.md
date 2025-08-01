@@ -55,6 +55,6 @@ Actualmente trabajo en una aplicación RAG desarrollada con herramientas open-so
 
 - GitHub: [@johnnynaranjo](https://github.com/johnnynaranjo)
 - Email: jnaranjo.calle@gmail.com
-- LinkedIn: [www.linkedin.com/in/johnny-naranjo](www.linkedin.com/in/johnny-naranjo)
+- LinkedIn: [www.linkedin.com/in/johnny-naranjo](https://www.linkedin.com/in/johnny-naranjo)
 
 ---
