@@ -40,5 +40,5 @@ Desarrollo una aplicación RAG (Retrieval-Augmented Generation) utilizando:
 Me interesa colaborar en proyectos de AI open-source o integraciones backend centradas en NLP.  
 Puedes contactarme o seguir mi trabajo aquí:
 
-- GitHub: [@johnnynaranjo](https://github.com/tuusuario)
+- GitHub: [@johnnynaranjo](https://github.com/johnnynaranjo)
 - Email: jnaranjo.calle@gmail.com
